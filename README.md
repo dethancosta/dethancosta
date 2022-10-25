@@ -4,7 +4,6 @@
   - Network Programming
   - Docker & Kubernetes
   - Game AI and Generative Art
-- 💞️ I’m looking to collaborate on bioinformatics projects
 - 🎨 Additionally, I like working on Game AI and Generative Art
 
 <!---
