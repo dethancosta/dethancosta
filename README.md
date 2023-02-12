@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ethan
-- 👀 I’m interested in backend development and distributed systems.
+- 👀 I’m interested in backend development and distributed systems engineering.
 - 🌱 I’m currently working on my Go, Python, and Spring skills. Next on the list of things to learn:
   - 🐳 Docker, Kubernetes, & Kafka
   - 🌐 NoSQL Databases
