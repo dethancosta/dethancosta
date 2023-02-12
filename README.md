@@ -8,7 +8,7 @@
   - 🌎 Geospatial algorithms and web mapping
   - ⚙️ WebAssembly
   - 🤖 ML model deployment
-  - 🕶️ Haskell and/or Clojure
+  - 🕶️ Haskell, Elixir, and/or Clojure
 <!---
 dethancosta/dethancosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
