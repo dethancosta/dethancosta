@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ethan
+- 👋 Hi, I’m Ethan. I'm currently a student in Computer Science.
 - 👀 I’m interested in backend development and distributed systems engineering.
 - 🌱 I’m currently working on my Python and Rust skills. Next on the list of things to learn:
   - 🐳 Docker, Kubernetes, & Kafka
